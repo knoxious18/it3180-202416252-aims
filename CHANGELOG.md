@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
 ## [Unreleased]
+### Added
+- Sorting methods for Cart: `sort_by_title()` and `sort_by_cost()`.
 
 ## [1.0.0] - 2026-11-07
 ### Added
@@ -13,4 +15,3 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
 ### Fixed
 - Reject DVD additions beyond maximum capacity of 20 (Issue #6).
-
